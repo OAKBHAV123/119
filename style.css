@@ -1,0 +1,48 @@
+.heading
+{
+    font-size: 26px;
+    width: 100%;
+margin: 0px;
+box-shadow: 15px 12px 9px aquamarine;
+font-family: 'Ceviche One', cursive;
+
+}
+
+.heading_div
+{ float: none;
+  background-color: blue;
+  padding: 12px;
+  border-radius: 22px;
+  color: greenyellow;
+  box-shadow: 15px 12px 9px green;
+}
+
+.heading_div2
+{
+    font-size: small;
+}
+
+.result_para_tag
+{
+  box-shadow: 5px 5px 5px burlywood;
+  font-size: 20px;
+}
+
+.copy_right_footer
+{
+  position: fixed;
+  color: aliceblue;
+  bottom: 0px;
+  width: 100%;
+  background-color: aquamarine;
+  line-height: 4;
+  text-align: center;
+}
+
+canvas
+{
+ border: 5px solid aqua;
+ border-radius: 20px;
+ box-shadow: 5px 5px 5px royalblue;
+ margin-top: 150px;
+}
